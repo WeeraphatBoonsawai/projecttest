@@ -5,7 +5,7 @@ function page() {
     <>
       <div className="relative bg-gradient-to-r from-purple-600 to-blue-600 h-screen text-white overflow-hidden">
   <div className="absolute inset-0">
-    <img src="https://i.pinimg.com/736x/e4/90/9d/e4909dbbe4a5ddc4efeba17086e1527e.jpg" alt="Background Image" className="object-cover object-center w-full h-full" />
+    <img src="https://i.pinimg.com/736x/29/0f/4e/290f4ee68da42239700d6e5cb383aa70.jpg" alt="Background Image" className="object-cover object-center w-full h-full" />
     <div className="absolute inset-0 bg-black opacity-50"></div>
   </div>
   
